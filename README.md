@@ -33,10 +33,10 @@ README.md
 ```bash
 chmod +x calculator.sh
 
-**### Step 2: Run the script**
+### Step 2: Run the script
 ./calculator.sh
 
-**📋 Sample Menu**
+📋 Sample Menu
 ------------Welcome to Calculator------------
 1. Addition
 2. Subtraction
@@ -46,5 +46,5 @@ chmod +x calculator.sh
 6. Exponential
 7. Exit
 
-**👨‍💻 Author**
+👨‍💻 Author
 Pallavi
