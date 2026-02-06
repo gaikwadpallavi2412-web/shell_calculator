@@ -24,19 +24,29 @@ It performs basic arithmetic operations using user input via terminal.
 ---
 
 ## 📂 Project Structure
+```
 calculator.sh
 README.md
+```
+
+---
 
 ## ▶️ How to Run
 
 ### Step 1: Give execute permission
 ```bash
 chmod +x calculator.sh
+```
 
 ### Step 2: Run the script
+```bash
 ./calculator.sh
+```
 
-📋 Sample Menu
+---
+
+## 📋 Sample Menu
+```
 ------------Welcome to Calculator------------
 1. Addition
 2. Subtraction
@@ -45,6 +55,9 @@ chmod +x calculator.sh
 5. Modulus
 6. Exponential
 7. Exit
+```
 
-👨‍💻 Author
+---
+
+## 👨‍💻 Author
 Pallavi
